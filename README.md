@@ -1,2 +1,7 @@
 # Sequence-Alignment
 2つの文字列に対してNeedleman-Wunsch-Algorithmによるシーケンスアライメントを行い，文字列の比較を行うプログラム(Python3)
+
+Sequence-Alignment.ipynb　がメインのプログラム(jupyter notebook)
+
+2つの文字列を入力とし，Mecabによる形態素解析を行うことで単語に分割する．
+その後シーケンスアライメントにより，二つの文字列(配列)の一致する文字数を最大，不一致が最小になるようにスコアを元に計算を行い，最適なアライメントを得る
