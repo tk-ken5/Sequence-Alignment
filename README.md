@@ -1,0 +1,2 @@
+# Sequence-Alignment
+2つの文字列に対してNeedleman-Wunsch-Algorithmによるシーケンスアライメントを行い，文字列の比較を行うプログラム(Python3)
